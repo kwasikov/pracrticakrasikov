@@ -35,6 +35,14 @@ namespace kras_lit
         {
             var Login = login.Text;
             var Password = pass.Text;
+            var context = new AppDbContext();
+            var user = context.Users.SingleOrDefault(x => x.login == Login && x.password == Password);
+            if (user is null)
+                {
+                MessageBox.Show("Неправильный логин и пароль");
+            }
+            MessageBox.Show("Вы успешно вошли в аккаунт");
+
         } 
     }
 }

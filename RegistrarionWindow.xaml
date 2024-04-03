@@ -11,7 +11,9 @@
             <TextBox x:Name="login" Height="35" Width="220" Canvas.Left="286" Canvas.Top="100"/>
             <Image Source="C:\Users\student\Desktop\krasikov_litvin\pict\log.png" Width="35" Canvas.Left="250" Canvas.Top="100" />
 
-            <TextBox x:Name="email" Height="35" Width="220" Canvas.Left="286" Canvas.Top="150"/>
+            <Border Height="36" Width="221" Canvas.Left="286" Canvas.Top="150" Name="RED" BorderThickness="2" >
+                <TextBox x:Name="email" Height="35" Width="220" Canvas.Left="286" Canvas.Top="150"/>
+            </Border>
             <Image Source="C:\Users\student\Desktop\krasikov_litvin\pict\email.png" Width="35" Canvas.Left="250" Canvas.Top="150" />
 
             <TextBox x:Name="pass1"  Height="35" Width="220" Background="White" Canvas.Left="286" Canvas.Top="200"/>

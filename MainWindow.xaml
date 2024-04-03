@@ -16,6 +16,7 @@
 
 
             <TextBox x:Name="pass"  Height="35" Width="220" Background="White" Canvas.Left="286" Canvas.Top="250"/>
+             
             <TextBlock  Text="Нет аккаунта?"  Height="20" Width="90" Canvas.Left="300" Canvas.Top="292"/>
                 <TextBlock x:Name="reg" Text="Зарегестрироваться" MouseLeftButtonUp="registr" Canvas.Left="390" Canvas.Top="292" Background="MediumPurple" />
                 <Button  Width="100" Height="30" Background="LightGreen" Content="Войти" Canvas.Left="340" Canvas.Top="320" Click="Button_Click"    />

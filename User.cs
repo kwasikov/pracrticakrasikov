@@ -10,6 +10,8 @@ namespace kras_lit
     {
         public int id { get; set; }
         public string login { get; set; }
-        public int password { get; set; }
+        public string password { get; set; }
+        public string email { get; set; }
+
     }
 }
