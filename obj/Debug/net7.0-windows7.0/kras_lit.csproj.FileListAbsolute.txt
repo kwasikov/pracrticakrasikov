@@ -63,3 +63,5 @@ C:\Users\student\Desktop\kras_lit2\obj\Debug\net7.0-windows7.0\ref\kras_lit.dll
 C:\Users\student\Desktop\kras_lit2\bin\Debug\net7.0-windows7.0\Humanizer.dll
 C:\Users\student\Desktop\kras_lit2\bin\Debug\net7.0-windows7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\student\Desktop\kras_lit2\bin\Debug\net7.0-windows7.0\Mono.TextTemplating.dll
+C:\Users\student\Desktop\kras_lit2\obj\Debug\net7.0-windows7.0\welcome.g.cs
+C:\Users\student\Desktop\kras_lit2\obj\Debug\net7.0-windows7.0\welcome.baml
